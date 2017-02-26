@@ -1,0 +1,27 @@
+<ion-content>
+
+      <div class="list" style="padding:48px 10px 10px 10px">
+      
+      	<h1>
+      	{{selectedBlog.blogName}}
+      	</h1>
+      	<p>
+      	{{selectedBlog.detail}}
+      	</p>
+      <img ng-src="{{selectedBlog.blogThumb}}" style="display:block; width:100%; padding-bottom:10px;" />
+
+        <div style="display: block; width=100%;" >
+         <img src="img/facebook_icon.png" style="float:right;">
+         <img src="img/twitter_icon.png" style="float:right;">
+         <img src="img/Google_Plus_icon.png" style="float:right;">
+         </div>
+         <br><br>
+        <center> <button class="button button-positive " style="display:block; width:80%;" 
+        ng-click="openBlog(selectedBlog.blogUrl)" >
+   goto Blog
+</button></center>
+
+
+      </div>
+
+</ion-content>

@@ -1,0 +1,25 @@
+<div >
+<center>
+<ion-pane  >
+      <ion-content scroll="true" >
+      
+ <ion-scroll  direction="y" style="height:96%; padding-top:50px; overflow: auto;">
+   <div ng-repeat="image in images"  > 
+   
+           <div ng-if="$index%8==0" class="icon-row">
+             <div class="box-align" >
+                <img src="{{images[$index].src}}"   class="center-icon" ng-click="onClick(images[$index].name)">
+                <img src="{{images[$index+1].src}}" class="center-icon" ng-click="onClick(images[$index+1].name)">
+                <img src="{{images[$index+2].src}}" class="center-icon" ng-click="onClick(images[$index+2].name)">
+                <img src="{{images[$index+3].src}}" class="center-icon" ng-click="onClick(images[$index+3].name)">
+                <img src="{{images[$index+4].src}}" class="center-icon" ng-click="onClick(images[$index+4].name)">
+                <img src="{{images[$index+5].src}}" class="center-icon" ng-click="onClick(images[$index+5].name)">
+                <img src="{{images[$index+6].src}}" class="center-icon" ng-click="onClick(images[$index+6].name)">
+                <img src="{{images[$index+7].src}}" class="center-icon" ng-click="onClick(images[$index+7].name)">
+              </ div>
+            </div>
+   </div>
+   </ion-scroll>
+    </ion-pane>
+    </center>
+    </div>

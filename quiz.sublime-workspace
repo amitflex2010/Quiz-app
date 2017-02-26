@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"html",
+				"htmlBlog"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"qu",
+				"Quiz"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"ion",
+				"ion-scroll"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 15011,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Quiz-App/www",
+		"/C/Quiz-App/www/data",
+		"/C/Quiz-App/www/js",
+		"/C/Quiz-App/www/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/amitripa/Desktop/test.html",
+		"/C/Quiz-App/www/js/services.js",
+		"/C/Quiz-App/config.xml",
+		"/C/Quiz-App/www/js/app.js",
+		"/C/Quiz-App/www/templates/detail.html",
+		"/C/Quiz-App/www/templates/home.html",
+		"/C/Quiz-App/www/index.html",
+		"/C/Quiz-App/www/js/rss-date.filter.js",
+		"/C/Quiz-App/www/data/data.json",
+		"/C/Quiz-App/www/data/blogs.json",
+		"/C/Quiz-App/www/templates/blog_detail.html",
+		"/C/Quiz-App/www/templates/HTML_Blogs.html",
+		"/C/Users/amitripa/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Quiz-App/www/templates/quiz.html",
+		"/C/Quiz-App/www/css/style.css",
+		"/C/Quiz-App/www/templates/create.html",
+		"/C/Quiz-App/www/js/helperService.js",
+		"/C/Quiz-App/www/js/quizCtrl.js",
+		"/C/Quiz-App/www/js/createCtrl.js",
+		"/C/Quiz-App/www/js/controllers.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"allow-navigation",
+			"header",
+			"helperService",
+			"helper",
+			"helperService",
+			"helper",
+			"HomeTabCtrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/js/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1935,
+								1935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 691.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "quiz.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

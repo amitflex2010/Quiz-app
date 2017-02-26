@@ -1,0 +1,22 @@
+<ion-content>
+
+      <div class="list" style="padding-top:40px">
+
+        <a ng-repeat="item in items" 
+           ng-click="blogItemClick(item)"
+           class="item item-thumbnail-left">
+
+          <img ng-src="{{ item.blogThumb }}">
+          <div style="padding-top:20px"><h2>{{ item.blogName }}</h2></div>
+         
+          <!--div style="display: inline-block;" align="right">
+         <img src="img/facebook_icon.png">
+         <img src="img/twitter_icon.png">
+         <img src="img/Google_plus_icon.png">
+         </div>-->
+
+        </div>
+        </a>
+         
+
+</ion-content>

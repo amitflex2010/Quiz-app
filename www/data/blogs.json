@@ -1,0 +1,80 @@
+[
+  {
+    "blogName": "Year Of Moo",
+    "blogUrl": "http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html",
+    "blogThumb":"img/angular_icon.png",
+    "detail":"This well-written tutorial by Year of Moo is going to teach you the very basics of how AngularJS works and what it can be used for. It covers all the primary parts of Angular: Modules, Dependency Injection, Routes, Services, Directives and more. It also give you a brief explanation of Angular usage with MooTools and jQuery. You probably want to read their second article for more Angular tips and tricks."
+    
+  },
+
+  {
+    "blogName": "AngularJs On Codeacademy",
+    "blogUrl": "http://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1",
+    "blogThumb":"img/codeAcd.PNG",
+    "detail":"If you like to learn by coding then this AngularJS tutorial by Marcin Wosinek is what you’re looking for. In this tutorial, you’ll learn about Angular basics, controllers, services, filters and directives. In each topic, you’ll be given explanations and instructions on some challenges which can be solved within the editor. If you get stuck, just open a hint."
+    
+  },
+  {
+    "blogName": "AngularJS Tutorial on Tutorialspoint",
+    "blogUrl": "http://www.tutorialspoint.com/angularjs/index.html",
+    "blogThumb":"img/tutpnt.PNG",
+    "detail":"Tutorialspoint accommodates you with a well-structured AngularJS tutorial. It divides each Angular component into specific sections. You’ll also get an appropriate example and editable live demo in each section. Here you’ll learn the basics of Angular from Setting Up the Environment until Internalization. There is also a Quick Guide that summarizes all you should know about Angular."
+    
+  },
+
+  {
+    "blogName": "Thinkster.io",
+    "blogUrl": "https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/",
+    "blogThumb":"img/angular_icon.png",
+    "detail":"Thinkster offers you a unique method of learning AngularJS. They split up all of the Angular topics into 12 parts. In each part, you’ll see a brief topical explanation followed by tick-able useful readings. The reading materials are mixed up, coming from other sites and Angular official doc. Also checkout this course companion that guides you in building modern web apps."
+    
+  },
+
+  {
+    "blogName": "AngularJS Tutorial by Todd Motto",
+    "blogUrl": "https://www.airpair.com/angularjs/posts/angularjs-tutorial",
+    "blogThumb":"img/angular_icon.png",
+    "detail":"Todd Motto, a Google Developer Expert, wrote a 10,000-word Angular tutorial on AirPair. This is a great tutorial that teaches you the very basics in AngularJS concepts. There are about 14 topics included here like engineering concept, form validation, templating with Angular and more. At the end of each topic, you’ll find related useful resources for further reading."
+    
+  },
+
+  {
+    "blogName": "AngularJS From Beginner To Expert",
+    "blogUrl": "http://www.ng-newsletter.com/posts/",
+    "blogThumb":"img/angular_icon.png",
+    "detail":"Todd Motto, a Google Developer Expert, wrote a 10,000-word Angular tutorial on AirPair. This is a great tutorial that teaches you the very basics in AngularJS concepts. There are about 14 topics included here like engineering concept, form validation, templating with Angular and more. At the end of each topic, you’ll find related useful resources for further reading."
+    
+  },
+
+  {
+    "blogName": "AngularJS in 60 Minutes",
+    "blogUrl": "http://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes",
+    "blogThumb":"img/angular_icon.png",
+    "detail":"Todd Motto, a Google Developer Expert, wrote a 10,000-word Angular tutorial on AirPair. This is a great tutorial that teaches you the very basics in AngularJS concepts. There are about 14 topics included here like engineering concept, form validation, templating with Angular and more. At the end of each topic, you’ll find related useful resources for further reading."
+    
+  },
+
+  {
+    "blogName": "Egghead",
+    "blogUrl": "https://egghead.io/technologies/angularjs",
+    "blogThumb":"img/angular_icon.png",
+    "detail":"Todd Motto, a Google Developer Expert, wrote a 10,000-word Angular tutorial on AirPair. This is a great tutorial that teaches you the very basics in AngularJS concepts. There are about 14 topics included here like engineering concept, form validation, templating with Angular and more. At the end of each topic, you’ll find related useful resources for further reading."
+    
+  },
+
+  {
+    "blogName": "Intro To Angular",
+    "blogUrl": "https://www.youtube.com/watch?v=TRrL5j3MIvo",
+    "blogThumb":"img/angular_icon.png",
+    "detail":"Todd Motto, a Google Developer Expert, wrote a 10,000-word Angular tutorial on AirPair. This is a great tutorial that teaches you the very basics in AngularJS concepts. There are about 14 topics included here like engineering concept, form validation, templating with Angular and more. At the end of each topic, you’ll find related useful resources for further reading."
+    
+  },
+
+  {
+    "blogName": "Shaping Up With Angular",
+    "blogUrl": "https://www.codeschool.com/courses/shaping-up-with-angular-js",
+    "blogThumb":"img/angular_icon.png",
+    "detail":"Todd Motto, a Google Developer Expert, wrote a 10,000-word Angular tutorial on AirPair. This is a great tutorial that teaches you the very basics in AngularJS concepts. There are about 14 topics included here like engineering concept, form validation, templating with Angular and more. At the end of each topic, you’ll find related useful resources for further reading."
+    
+  }
+]

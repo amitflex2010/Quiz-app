@@ -1,0 +1,45 @@
+[
+  {
+    "name": "items",
+    "description":
+    {
+            "type": "This button can be added by using ion-delete-button directive. You can use any icon class you want. Since we don't always want to show delete buttons because users might accidentally tap it and trigger delete process we can add show-delete attribute to ion-list and connect it with ng-model. In the example below we will use ion-toggle as a model. When toggle is on delete, the buttons will appear on our list items."
+    },
+    "fields": 
+    {
+        "name": 
+        {
+            "type": "string"
+        },
+        "description":
+         {
+            "type": "This button can be added by using ion-delete-button directive. You can use any icon class you want. Since we don't always want to show delete buttons because users might accidentally tap it and trigger delete process we can add show-delete attribute to ion-list and connect it with ng-model. In the example below we will use ion-toggle as a model. When toggle is on delete, the buttons will appear on our list items."
+        },
+        "user": {
+            "object": "users"
+        }
+    }
+  },
+  {
+    "name": "users",
+    "description":
+    {
+            "type": "This button can be added by using ion-delete-button directive. You can use any icon class you want. Since we don't always want to show delete buttons because users might accidentally tap it and trigger delete process we can add show-delete attribute to ion-list and connect it with ng-model. In the example below we will use ion-toggle as a model. When toggle is on delete, the buttons will appear on our list items."
+    },
+    "fields": {
+    "email": {
+        "type": "string"
+    },
+    "firstName": {
+        "type": "string"
+    },
+    "lastName": {
+        "type": "string"
+    },
+    "items": {
+        "collection": "items",
+        "via": "user"
+    }
+    }
+  }
+]
